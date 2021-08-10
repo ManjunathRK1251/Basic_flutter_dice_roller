@@ -1,6 +1,6 @@
 # dicee_flutter
-
-A new Flutter project.
+<h5>Screenshots</h5>
+<img src = "Screenshots/qemu-system-x86_64_O1L0QgQoBV.png" width="200" height="400">
 
 ## Getting Started
 
